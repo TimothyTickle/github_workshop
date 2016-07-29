@@ -1,0 +1,26 @@
+Slide 1: --
+Slide 2: --
+Slide 3: install commands on slide
+Slide 4: register and make a repo
+Slide 5: clone from github repo
+Slide 6: git status
+Slide 7-8: make a file, git add, git status
+Slide 9: git commit -m "Adding ...file", git status
+Slide 10: git push, git status
+Slide 11: git pull, git status
+Slide 12: Make a file that is not tracked.
+Slide 13: commands on slide
+Slide 14: commands on slide
+Slide 15: commands on slide
+Slide 16: commands on slide
+Slide 17: commands on slide
+Now go to github and show the diffs.
+Show editor.
+Modify it and have them pull.
+Remove the file, git status, git add, git status, git commit, git status, git push.
+git checkout the previous commit.
+git checkout master.
+Not tracked file is still there.
+Slide 18: --
+Slide 19: Have them add stuff to the repo if they want.
+Slide 20: --
